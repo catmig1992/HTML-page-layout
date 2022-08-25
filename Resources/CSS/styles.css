@@ -1,0 +1,32 @@
+span {
+  display: inline-block;
+}
+
+body {
+  text-align: center;
+}
+
+.picture-header {
+  max-width: 100%;
+  height: auto;
+}
+
+.panda-image {
+  width: 200px;
+  height: 200px;
+}
+
+.otter-image {
+  width: 200px;
+  height: 200px;
+}
+
+.monkey-image {
+  width: 200px;
+  height: 200px;
+}
+
+.peacock-image {
+  width: 200px;
+  height: 200px;
+}
